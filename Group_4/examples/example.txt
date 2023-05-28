@@ -1,0 +1,5 @@
+Este é um exemplo de texto em português. 
+Esto es un ejemplo de texto en español. 
+هذا مثال لنص باللغة العربية. 
+This is an example of text in English.
+

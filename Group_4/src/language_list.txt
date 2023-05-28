@@ -1,0 +1,17 @@
+catalan
+dutch
+english
+french
+german
+greek
+hungarian
+italian
+norwegian
+polish
+portuguese
+romanian
+russian
+serbian
+slovak
+spanish
+ukranian
