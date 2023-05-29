@@ -23,7 +23,7 @@ Then, to run the programs we have to go to bin folder and execute the three comm
  
 Example: ./lang portuguese.txt por.txt 3 0.5 0.4 3 8.0
 
-(note that filename_ri and filename_t should be inside bin folder or you should replace them for the path where the files are stored)
+(note that filename_ri and filename_t should be inside the folder were you run the program or you should replace them in the command for the path where the files are stored)
 
  
 ### Command to run the program findlang
@@ -32,7 +32,7 @@ Example: ./lang portuguese.txt por.txt 3 0.5 0.4 3 8.0
 
 Example: ./findlang /home/renatito/Desktop/TAI/praticas/TAI_P2/Group_4/models ara.txt 3 0.5 0.4 3 8.0
 
-(note that filename_t should be inside bin folder or you should replace it for the path where the file is stored)
+(note that filename_t should be inside the folder were you run the program or you should replace it in the command for the path where the file is stored; you also need to have the text file "language_list" in the folder were you run the program)
 
 
 ### Command to run the program locatelang
@@ -41,4 +41,4 @@ Example: ./findlang /home/renatito/Desktop/TAI/praticas/TAI_P2/Group_4/models ar
 
 Example: ./locatelang /home/renatito/Desktop/TAI/praticas/TAI_P2/Group_4/models example.txt 3 0.5 0.4 3 8.0
 
-(note that filename_t should be inside bin folder or you should replace it for the path where the file is stored)
+(note that filename_t should be inside the folder were you run the program or you should replace it in the command for the path where the file is stored; you also need to have the text file "language_list" in the folder were you run the program)
